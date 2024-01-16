@@ -1,0 +1,34 @@
+Event block 867 gasLimit set to 20000000
+Check block 865 gasLimit 0
+Check block 866 gasLimit 0
+Check block 867 gasLimit 0
+Check block 868 gasLimit 0
+Check block 869 gasLimit 20000000
+
+Event block 1229 gasLimit set to 10000000
+Check block 1227 gasLimit 20000000
+Check block 1228 gasLimit 20000000
+Check block 1229 gasLimit 20000000
+Check block 1230 gasLimit 10000000
+Check block 1231 gasLimit 10000000
+
+Event block 1713180 gasLimit set to 130000000
+Check block 1713178 gasLimit 10000000
+Check block 1713179 gasLimit 10000000
+Check block 1713180 gasLimit 10000000
+Check block 1713181 gasLimit 130000000
+Check block 1713182 gasLimit 130000000
+
+Event block 1945002 gasLimit set to 13000000
+Check block 1945000 gasLimit 130000000
+Check block 1945001 gasLimit 130000000
+Check block 1945002 gasLimit 130000000
+Check block 1945003 gasLimit 13000000
+Check block 1945004 gasLimit 13000000
+
+Event block 15158970 gasLimit set to 20000000
+Check block 15158968 gasLimit 13000000
+Check block 15158969 gasLimit 13000000
+Check block 15158970 gasLimit 13000000
+Check block 15158971 gasLimit 20000000
+Check block 15158972 gasLimit 20000000
