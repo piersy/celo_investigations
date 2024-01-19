@@ -4,7 +4,6 @@ const gasLimitAbi = [`event BlockGasLimitSet(uint256 limit)`]
 
 // const blockchainParametersProxy = "0x6E10a8864C65434A721d82e424d727326F9d5Bfa"; // mainnet
 // const blockchainParametersProxy = "0xE5aCbb07b4Eed078e39D50F66bF0c80cF1b93abe"; // alfajores
-// const blockchainParametersProxy = "0xE5aCbb07b4Eed078e39D50F66bF0c80cF1b93abe"; // alfajores
 const blockchainParametersProxy = "0x2F6fEAcB6a4326c47E5AC16dddb5542ADAf45FC8"; // baklava
 
 const provider = new ethers.JsonRpcProvider("http://localhost:8545");
